@@ -1,4 +1,5 @@
 ## Extracting data from SQLite file (.db)
+## scripts at https://github.com/InstituteForGlobalEcology/Coral-bleaching-a-global-analysis-of-the-past-two-decades/ 
 
 
 library(RSQLite)
